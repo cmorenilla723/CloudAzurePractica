@@ -2,7 +2,9 @@
   "name": "cloudazurepractica",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node index.js",
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cmorenilla723/CloudAzurePractica.git"
@@ -14,6 +16,10 @@
     "url": "https://github.com/cmorenilla723/CloudAzurePractica/issues"
   },
   "homepage": "https://github.com/cmorenilla723/CloudAzurePractica#readme",
-  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.9",
+    "phaser": "^3.55.2"
+  },
   "description": ""
 }
