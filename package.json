@@ -17,8 +17,6 @@
   },
   "homepage": "https://github.com/cmorenilla723/CloudAzurePractica#readme",
   "dependencies": {
-    "express": "^4.17.1",
-    "mongodb": "^3.6.9",
     "phaser": "^3.55.2"
   },
   "description": ""
